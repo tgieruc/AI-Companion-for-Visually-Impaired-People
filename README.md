@@ -1,6 +1,6 @@
 # AI Companion for Visually Impaired People
 
-This project was created during the [GenAI Hack AI Campus](https://www.merantix-aicampus.com/event/hack-ai-campus-genai-edition-2023). The goal was to create a prototype that helps visually impaired people to navigate in their environment. 
+This project was created during the [GenAI Hack AI Campus](https://www.merantix-aicampus.com/event/hack-ai-campus-genai-edition-2023), with the goal to help visually impaired people to navigate in their environment. 
 
 The user verbally asks a question about their environment, a photo is taken and AI companion answers the question using text-to-speech, leveraging VQA and Object Detection. 
 
